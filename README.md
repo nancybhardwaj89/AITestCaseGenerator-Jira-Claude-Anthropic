@@ -131,14 +131,6 @@ User should successfully login and navigate to dashboard.
 
 ---
 
-# 🔒 Security Notes
-
-* Never commit your `.env` file
-* Keep API keys secure
-* Use Jira API tokens instead of passwords
-
----
-
 # 📈 Future Enhancements
 
 * ✅ Export test cases to Excel
@@ -165,8 +157,3 @@ If you found this project useful:
 * Share with QA teams 👨‍💻
 * Contribute improvements 🚀
 
----
-
-# 📜 License
-
-MIT License
