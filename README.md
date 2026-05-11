@@ -50,14 +50,6 @@ pip install anthropic requests python-dotenv
 
 ## 2️⃣ Configure Environment Variables
 
-Copy:
-
-```bash
-.env.example
-```
-
-To:
-
 ```bash
 .env
 ```
